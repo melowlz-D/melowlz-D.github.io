@@ -13,7 +13,7 @@ authors:
   - Sun-Yuan Hsieh
   - Jie Wu
 
-date: '2025-5-12:00:00Z'
+date: '2025-5-12T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
