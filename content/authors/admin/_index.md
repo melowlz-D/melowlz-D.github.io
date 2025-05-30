@@ -1,9 +1,8 @@
 ---
 # Display name
-title: 吴立钊
-
+title: Lizhao Wu
 # Name pronunciation (optional)
-name_pronunciation: Lizhao Wu
+# name_pronunciation: Lizhao Wu
 
 # Full name (for SEO)
 first_name: Lizhao
@@ -20,7 +19,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -59,12 +58,20 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Intelligent Science and Technology
+    institution: North China University of Science and Technology
+    date_start: 2018-09-01
+    date_end: 2022-06-31
+    summary: |
+      #       Focusing on the research of overlapping community detection in complex networks, supervised by [Prof Chunying Zhang](https://ieeexplore.ieee.org/author/37086945415). One paper has been published at a conference hosted by the China Computer Federation (CCF).
+
+
   - area: BSc Cyberspace security
     institution: Fujian Normal University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2025-06-31
     summary: |
-      GPA: 3.4/4.0
+      #     Focusing on the research of data heterogeneity and device heterogeneity issues in federated learning, under the supervision of [Prof Hui Lin](https://ieeexplore.ieee.org/author/37633721200) and [Prof Xiaoding Wang](https://ieeexplore.ieee.org/author/37088446734). A total of 11 papers have been published (including 2 papers in CCF A and Sci-1  journals).
 
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -101,32 +108,32 @@ skills:
         icon: code-bracket
       - name: Vim/NeoVim
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-bar
       - name: PyTorch
         description: ''
-        percent: 40
+        percent: 70
         icon: circle-stack
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-simple-walk
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+      - name: Basketball
+        description: ''
+        percent: 70
+        icon: person-simple-walk
   #     - name: Cats
   #       description: ''
   #       percent: 100
   #       icon: cat
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera
 
 languages:
   - name: English
-    percent: 100
+    percent: 70
   - name: Chinese
     percent: 75
 
@@ -134,35 +141,25 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Neural Networks and Deep Learning
-#     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2023-11-25'
-#     awarder: Coursera
-#     icon: coursera
-#     summary: |
-#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-#   - title: Blockchain Fundamentals
-#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#     date: '2023-07-01'
-#     awarder: edX
-#     icon: edx
-#     summary: |
-#       Learned:
-#       - Synthesize your own blockchain solutions
-#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-#   - title: 'Object-Oriented Programming in R'
-#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#     certificate_url: https://www.datacamp.com
-#     date: '2023-01-21'
-#     awarder: datacamp
-#     icon: datacamp
-#     summary: |
-#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+awards:
+  - title: The 13-th National College Mathematics Contest
+    url: http://www.cmathc.cn/
+    date: '2021-12-01'
+    awarder: First Prize
+    icon: coursera
+    summary: |
+    Awarded First Prize in the National College Students Mathematics Competition (Non-Mathematics Category), demonstrating proficiency in advanced mathematics, probability theory, linear algebra, and related disciplines.
+
+  - title: The 11th "Internet+" College Students Innovation and Entrepreneurship Competition of Fujian Normal University
+    # url: http://www.cmathc.cn/
+    date: '2025-5-01'
+    awarder: Bronze Award
+    icon: coursera
+    summary: |
+    The project led by us won the Bronze Award at the 11th 'Internet+' College Students Innovation and Entrepreneurship Competition of Fujian Normal University. The research topic focused on Trustworthy Federated Learning in the Industrial Internet.
+
 ---
 
 ## About Me
-
 Lizhao Wu is currently a graduate student at the College of Computer Network and Cyberspace Security, Fujian Normal University, where he studies under the supervision of Professors Hui Lin and Xiaoding Wang. His research interests include distributed federated learning and trusted computing.
 

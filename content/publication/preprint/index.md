@@ -1,12 +1,20 @@
 ---
-title: "An example preprint / working paper"
+title: "Toward Personalized Federated Meta-learning with
+Constrained Hypernetwork on Non-IID Data"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Lizhao Wu
+- Xiaoding Wang
+- Hui Lin
+- Xu Yang
+- Jiwu Shu
+- Xun Yi
+- Ibrahim Khalil
+- Albert Y. Zomaya
+date: "2025-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,27 +25,50 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Personalized Federated Learning (pFL) tailors models to each client’s local data distribution in heterogeneous
+federated learning settings. Federated Meta-learning (FML), a
+branch of pFL, uses meta-learning for rapid adaptation, where
+clients start with a meta-model and personalize it by finetuning with local data. Due to the limitations of a single global
+meta-model when client data distributions differ significantly,
+the meta-model personalization in FML should be considered.
+However, most benchmark pFL methods lack meta-model personalization, often lacking meta-learning or relying on a single
+global meta-model. Besides, these methods do not offer both
+meta-model personalization and assurances on generalization
+and convergence due to challenges in measuring meta-model
+to client model distance effectively in FML. To address these
+issues, we combine FML with hypernetwork and propose a
+constrained hypernetwork-based FML framework called FMLH
+by innovatively uses a hypernetwork to capture fine-tuned model
+differences, allowing personalized meta-models for each client.
+We provide rigorous mathematical proofs illustrating how the
+hypernetwork affects the convergence and generalization bounds
+of FMLH. Experimental results demonstrate that FMLH significantly improves the model’s generalization in cross-client shifts,
+with up to an 18.71% increase in lowest decile accuracy. FMLH
+also outperforms representative pFL algorithms by up to 5.6%
+in maximum accuracy improvement.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Federated learning
+- Meta-learning
+- Data heterogeneity
+- Hypernetwork
 
 featured: true
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/Wlzzzz-del/FMLH.git'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
