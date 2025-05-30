@@ -25,27 +25,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Personalized Federated Learning (pFL) tailors models to each client’s local data distribution in heterogeneous
-federated learning settings. Federated Meta-learning (FML), a
-branch of pFL, uses meta-learning for rapid adaptation, where
-clients start with a meta-model and personalize it by finetuning with local data. Due to the limitations of a single global
-meta-model when client data distributions differ significantly,
-the meta-model personalization in FML should be considered.
-However, most benchmark pFL methods lack meta-model personalization, often lacking meta-learning or relying on a single
-global meta-model. Besides, these methods do not offer both
-meta-model personalization and assurances on generalization
-and convergence due to challenges in measuring meta-model
-to client model distance effectively in FML. To address these
-issues, we combine FML with hypernetwork and propose a
-constrained hypernetwork-based FML framework called FMLH
-by innovatively uses a hypernetwork to capture fine-tuned model
-differences, allowing personalized meta-models for each client.
-We provide rigorous mathematical proofs illustrating how the
-hypernetwork affects the convergence and generalization bounds
-of FMLH. Experimental results demonstrate that FMLH significantly improves the model’s generalization in cross-client shifts,
-with up to an 18.71% increase in lowest decile accuracy. FMLH
-also outperforms representative pFL algorithms by up to 5.6%
-in maximum accuracy improvement.
+abstract: Personalized Federated Learning (pFL) tailors models to each client’s local data distribution in heterogeneous federated learning settings. Federated Meta-learning (FML), a branch of pFL, uses meta-learning for rapid adaptation, where clients start with a meta-model and personalize it by finetuning with local data. Due to the limitations of a single global meta-model when client data distributions differ significantly, the meta-model personalization in FML should be considered. However, most benchmark pFL methods lack meta-model personalization, often lacking meta-learning or relying on a single global meta-model. Besides, these methods do not offer both meta-model personalization and assurances on generalization and convergence due to challenges in measuring meta-model to client model distance effectively in FML. To address these issues, we combine FML with hypernetwork and propose a constrained hypernetwork-based FML framework called FMLH by innovatively uses a hypernetwork to capture fine-tuned model differences, allowing personalized meta-models for each client. We provide rigorous mathematical proofs illustrating how the hypernetwork affects the convergence and generalization bounds of FMLH. Experimental results demonstrate that FMLH significantly improves the model’s generalization in cross-client shifts, with up to an 18.71% increase in lowest decile accuracy. FMLH also outperforms representative pFL algorithms by up to 5.6% in maximum accuracy improvement.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
