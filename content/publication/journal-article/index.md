@@ -1,16 +1,14 @@
 ---
-title: "An example journal article"
+title: "Federated Training Generative Adversarial Networks  for Heterogeneous Vehicle Scheduling in IoV"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Lizhao Wu
+- Hui Lin
+- Xiaoding Wang
+date: "2025-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-03-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,26 +19,26 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In autonomous driving environments, generative adversarial networks (GANs) are often used to predict the future trajectories of objects in the scene, providing decision support for autonomous driving systems. However, integrating GAN models into the Internet of Vehicles (IoV) poses numerous challenges. First, GAN models necessitate user data and extensive computing resources, whereas diverse intelligent connected vehicle (ICV) possess limited bandwidth and computational capabilities, making it challenging to deploy models of the same scale as those in the cloud. Second, multifaceted aspects, including energy consumption, computation, communication, and vehicle training scheduling, have yet to be thoroughly examined, particularly in the context of IoV’s limited resources. To address the above issues, we propose a novel federated learning framework, heterogeneous-vehicle-scheduling-GAN (HVS-GAN), for training GANs in resource-constrained IoV environments. HVS-GAN balances GAN generation quality and training costs in IoV. It supports multiple ICVs training GAN models of different structures, breaking the strong assumption of uniform GAN model size constraints in previous works and enabling collaborative learning within IoV. Furthermore, to balance quality and training costs, we incorporate deep deterministic policy gradients learning to manage varying model size constraints, training delays, and training consumption across participating ICVs. Experimental results and analysis confirm the superiority of our proposed HVSGAN solution, which achieves better outcomes in IoV scenarios with stringent model size constraints compared to state-of-the-art algorithms.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Deep deterministic policy gradients (DDPGs), federated learning (FL), generative adversarial etworks (GAN), Internet of Vehicles (IoV), reinforcement learning (RL).
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: https://ieeexplore.ieee.org/document/10772315
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
