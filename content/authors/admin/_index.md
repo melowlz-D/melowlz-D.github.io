@@ -146,14 +146,14 @@ awards:
     awarder: First Prize
     icon: coursera
     summary: |
-    Awarded First Prize in the National College Students Mathematics Competition (Non-Mathematics Category), demonstrating proficiency in advanced mathematics, probability theory, linear algebra, and related disciplines.
+            Awarded First Prize in the National College Students Mathematics Competition (Non-Mathematics Category), demonstrating proficiency in advanced mathematics, probability theory, linear algebra, and related disciplines.
   - title: The 11th "Internet+" College Students Innovation and Entrepreneurship Competition of Fujian Normal University
     # url: http://www.cmathc.cn/
     date: '2025-5-01'
     awarder: Bronze Award
     icon: coursera
     summary: |
-    The project led by us won the Bronze Award at the 11th 'Internet+' College Students Innovation and Entrepreneurship Competition of Fujian Normal University. The research topic focused on Trustworthy Federated Learning in the Industrial Internet.
+            The project led by us won the Bronze Award at the 11th 'Internet+' College Students Innovation and Entrepreneurship Competition of Fujian Normal University. The research topic focused on Trustworthy Federated Learning in the Industrial Internet.
 
 ---
 
