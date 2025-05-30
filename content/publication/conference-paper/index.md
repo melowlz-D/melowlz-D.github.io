@@ -13,11 +13,11 @@ authors:
   - Sun-Yuan Hsieh
   - Jie Wu
 
-date: '2025-5-12T00:00:00Z'
+date: '2025-5-12'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-05-25T00:00:00Z'
+publishDate: '2025-05-25'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
