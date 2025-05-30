@@ -60,14 +60,14 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Intelligent Science and Technology
     institution: North China University of Science and Technology
-    date_start: 2018-09-01T00:00:00Z
-    date_end: 2022-06-31T00:00:00Z
+    date_start: 2018-09-01
+    date_end: 2022-06-31
     summary: |
             Focusing on the research of overlapping community detection in complex networks, supervised by [Prof Chunying Zhang](https://ieeexplore.ieee.org/author/37086945415). One paper has been published at a conference hosted by the China Computer Federation (CCF).
   - area: BSc Cyberspace security
     institution: Fujian Normal University
-    date_start: 2022-09-01T00:00:00Z
-    date_end: 2025-06-31T00:00:00Z
+    date_start: 2022-09-01
+    date_end: 2025-06-31
     summary: |
           Focusing on the research of data heterogeneity and device heterogeneity issues in federated learning, under the supervision of [Prof Hui Lin](https://ieeexplore.ieee.org/author/37633721200) and [Prof Xiaoding Wang](https://ieeexplore.ieee.org/author/37088446734). A total of 11 papers have been published (including 2 papers in CCF A and Sci-1  journals).
 
@@ -142,14 +142,14 @@ languages:
 awards:
   - title: The 13-th National College Mathematics Contest
     url: http://www.cmathc.cn/
-    date: '2021-12-01T00:00:00Z'
+    date: '2021-12-01T12:00:00Z'
     awarder: First Prize
     icon: coursera
     summary: |
             Awarded First Prize in the National College Students Mathematics Competition (Non-Mathematics Category), demonstrating proficiency in advanced mathematics, probability theory, linear algebra, and related disciplines.
   - title: The 11th "Internet+" College Students Innovation and Entrepreneurship Competition of Fujian Normal University
     # url: http://www.cmathc.cn/
-    date: '2025-5-01T00:00:00Z'
+    date: '2025-5-01T12:00:00Z'
     awarder: Bronze Award
     icon: coursera
     summary: |
