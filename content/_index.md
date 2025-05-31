@@ -36,7 +36,9 @@ sections:
       subtitle: ''
       text: |-
         I am currently applying for the CSC (China Scholarship Council) PhD scholarship at the University of Exeter and hope for the best outcome.
+
         My research efforts are focused on advancing inference attack studies under the meta-learning paradigm and deploying federated learning frameworks in agricultural scenarios. My future research interests lie in leveraging causal inference techniques to build trustworthy federated learning models. 
+
         I welcome communication or collaboration opportunities with anyone interested in these areas. 😃
     design:
       columns: '1'
@@ -75,8 +77,8 @@ sections:
     id: news
     content:
       title: Recent News
-      subtitle: ''
-      text: ''
+      subtitle: 'Our paper has accepted by IJCAI2025!🎉'
+      text: 'Our paper has accepted by IJCAI2025!🎉'
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
