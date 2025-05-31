@@ -1,31 +1,34 @@
 ---
-title: Example Talk
+title: A Graph Generation Network with PrivacyPreserving Capabilities
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: the 23th International Conference on Algorithms and Architectures for Parallel Processing(ICA3PP 2023)
+event_url: https://link.springer.com/book/10.1007/978-981-97-0859-8
 
-location: Hugo Blox Builder HQ
+location: Tianjin, China
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: No. 2, Tuanjie Building, East Side of Youyi South Road, Meijiang Sub-district
+  city: Tianjin
+  region: Tianjin
+  postcode: '300221'
+  country: China
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Large datasets drive advancements in science, technology, and economic growth, with graph-structured data playing a pivotal role in mining and analysis. However, graph data often contains sensitive personal information, exposing it to privacy risks. To address this, the RDP-GGAN framework is proposed, integrating Rényi differential privacy (RDP) with generative adversarial networks (GANs). This framework enforces strict privacy constraints on deep graph generative models, focusing on preserving edge privacy to safeguard relational data connections. By injecting controlled noise into gradients of link-reconstruction models, RDP-GGAN enhances edge differential privacy, offering robust protection for sensitive graph-structured information.
+abstract: The use of large datasets for data mining and analysis can stimulate progress in science and technology while also propelling economic growth. Graph-structured data is a crucial component of both data mining and analysis. However, this type of data often contains sensitive personal information, making it vulnerable to potential attacks and widespread privacy breaches. Graph data encodes sensitive information, including personal attributes (nodes) and complex interaction relationships (edges). Rényi differential privacy provides a stricter definition of privacy protection. This paper introduces the RDP-GGAN framework, which integrates Rényi differential privacy technology with generative adversarial networks to offer improved privacy protection capabilities. The framework utilizes Rényi differential privacy to establish and enforce strict privacy constraints for deep graph generative models, with a particular emphasis on preserving edge privacy in graph data to ensure connection privacy in relational data. To enhance edge differential privacy, appropriate noise is injected into the gradient of link-reconstruction-based graph generative models.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-10-21T13:00:00Z'
+date_end: '2023-10-22T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'
 
 authors:
-  - admin
+  - Yangyong Miao
+  - Xiaoding Wang
+  - Hui Lin
 
 tags: []
 
