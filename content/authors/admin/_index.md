@@ -67,7 +67,7 @@ education:
   - area: BSc Cyberspace security
     institution: Fujian Normal University
     date_start: 2022-09-01
-    date_end: 2025-06-31
+    date_end: 2025-07-01
     summary: |
           Focusing on the research of data heterogeneity and device heterogeneity issues in federated learning, under the supervision of [Prof Hui Lin](https://ieeexplore.ieee.org/author/37633721200) and [Prof Xiaoding Wang](https://ieeexplore.ieee.org/author/37088446734). A total of 11 papers have been published (including 2 papers in CCF A and Sci-1  journals).
 
