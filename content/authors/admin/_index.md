@@ -32,11 +32,17 @@ profiles:
   - icon: at-symbol
     url: 'melowlz@yeah.net'
     label: E-mail Me
+  - icon: github
+    url: https://github.com/Wlzzzz-del
+  - icon: google-scholar
+    url: https://scholar.google.com/citations?user=2zxAc0sAAAAJ&hl=zh-CN
+
 
 interests:
   - Federated Learning
   - Secure Deep Learning
   - Casual Inference
+  - Agriculture in Federated Learning
 
 education:
   # - area: PhD Artificial Intelligence
@@ -59,25 +65,24 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Tangshan City, Hebei Province, China
-    institution: North China University of Science and Technology
-    date_start: 2018-09-01
-    date_end: 2022-07-01
-    summary: |
-            Focusing on the research of overlapping community detection in complex networks, supervised by [Prof Chunying Zhang](https://ieeexplore.ieee.org/author/37086945415). One paper has been published at a conference hosted by the China Computer Federation (CCF).
-  - area: Fuzhou City, Fujian Province, China
-    institution: Fujian Normal University
-    date_start: 2022-09-01
-    date_end: 2025-07-01
-    summary: |
-          Focusing on the research of data heterogeneity and device heterogeneity issues in federated learning, under the supervision of [Prof Hui Lin](https://ieeexplore.ieee.org/author/37633721200) and [Prof Xiaoding Wang](https://ieeexplore.ieee.org/author/37088446734). A total of 11 papers have been published (including 2 papers in CCF A and Sci-1  journals).
   - area: Stocker Rd, Exeter EX4 4PY, UK
     institution: University of Exeter
     date_start: 2022-09-01
     date_end: 2025-07-01
     summary: |
           Focusing on the research of data heterogeneity and device heterogeneity issues in federated learning, under the supervision of [Prof Hui Lin](https://ieeexplore.ieee.org/author/37633721200) and [Prof Xiaoding Wang](https://ieeexplore.ieee.org/author/37088446734). A total of 11 papers have been published (including 2 papers in CCF A and Sci-1  journals).
-
+  - area: Fuzhou City, Fujian Province, China
+    institution: Fujian Normal University
+    date_start: 2022-09-01
+    date_end: 2025-07-01
+    summary: |
+          Focusing on the research of data heterogeneity and device heterogeneity issues in federated learning, under the supervision of [Prof Hui Lin](https://ieeexplore.ieee.org/author/37633721200) and [Prof Xiaoding Wang](https://ieeexplore.ieee.org/author/37088446734). A total of 11 papers have been published (including 2 papers in CCF A and Sci-1  journals).
+  - area: Tangshan City, Hebei Province, China
+    institution: North China University of Science and Technology
+    date_start: 2018-09-01
+    date_end: 2022-07-01
+    summary: |
+            Focusing on the research of overlapping community detection in complex networks, supervised by [Prof Chunying Zhang](https://ieeexplore.ieee.org/author/37086945415). One paper has been published at a conference hosted by the China Computer Federation (CCF).
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin

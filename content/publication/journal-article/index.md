@@ -25,7 +25,7 @@ abstract: In autonomous driving environments, generative adversarial networks (G
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Deep deterministic policy gradients (DDPGs), federated learning (FL), generative adversarial etworks (GAN), Internet of Vehicles (IoV), reinforcement learning (RL).
+- Federated Learning, Generative Adversarial etworks, Internet of Vehicles.
 featured: True
 
 # links:

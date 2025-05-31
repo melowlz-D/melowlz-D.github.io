@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am currently applying for the CSC (China Scholarship Council) PhD scholarship at the University of Exeter and hope for the best outcome.
+        My research efforts are focused on advancing inference attack studies under the meta-learning paradigm and deploying federated learning frameworks in agricultural scenarios. My future research interests lie in leveraging causal inference techniques to build trustworthy federated learning models. 
+        I welcome communication or collaboration opportunities with anyone interested in these areas. 😃
     design:
       columns: '1'
   - block: collection
