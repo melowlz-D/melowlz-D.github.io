@@ -60,7 +60,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Intelligent Science and Technology
     institution: North China University of Science and Technology
-    date_start: "2018-09-01"
+    date_start: 2018-09-01
     date_end: "2022-06-31"
     summary: |
             Focusing on the research of overlapping community detection in complex networks, supervised by [Prof Chunying Zhang](https://ieeexplore.ieee.org/author/37086945415). One paper has been published at a conference hosted by the China Computer Federation (CCF).
