@@ -38,9 +38,9 @@ tags:
 
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
+# links:
+# - name: Custom Link
+#   url: http://example.org
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/Wlzzzz-del/FMLH.git'
 # url_dataset: '#'
@@ -72,11 +72,12 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+My first work, which is a novel framework to solve Non-IID problem in federated learning.
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+<!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

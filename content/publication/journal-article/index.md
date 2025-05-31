@@ -26,7 +26,7 @@ abstract: In autonomous driving environments, generative adversarial networks (G
 
 tags:
 - Deep deterministic policy gradients (DDPGs), federated learning (FL), generative adversarial etworks (GAN), Internet of Vehicles (IoV), reinforcement learning (RL).
-featured: false
+featured: True
 
 # links:
 # - name: ""
@@ -61,8 +61,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
+A novel framework to train GAN model with heterogeneous model in federated learning.
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

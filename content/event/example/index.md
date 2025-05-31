@@ -1,5 +1,5 @@
 ---
-title: A Graph Generation Network with PrivacyPreserving Capabilities
+title: A Graph Generation Network with Privacy Preserving Capabilities
 
 event: the 23th International Conference on Algorithms and Architectures for Parallel Processing(ICA3PP 2023)
 event_url: https://link.springer.com/book/10.1007/978-981-97-0859-8
