@@ -1,6 +1,6 @@
 ---
 title: One paper has accepted by IJCAI2025!🎉
-summary: 
+summary: w
 date: 2025-05-27
 
 # Featured image
