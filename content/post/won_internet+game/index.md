@@ -1,7 +1,8 @@
 ---
-title: One paper has accepted by IJCAI2025!🎉
+title: I got Bronze Award in the 11th ”Internet+” College Students Innovation and Entrepreneurship Competition of Fujian
+Normal University. 2025
 summary: 
-date: 2025-05-27
+date: 2025-06-03
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -14,7 +15,7 @@ authors:
 
 tags:
   - Academic
-  - Paper
+  - Game
 ---
 
 <!-- Celebration 👋
