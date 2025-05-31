@@ -32,9 +32,9 @@ profiles:
   - icon: at-symbol
     url: 'melowlz@yeah.net'
     label: E-mail Me
-  - icon: github
+  - icon: brands/github
     url: https://github.com/Wlzzzz-del
-  - icon: google-scholar
+  - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=2zxAc0sAAAAJ&hl=zh-CN
 
 
