@@ -5,7 +5,7 @@ authors:
 - Hui Lin
 - Xiaoding Wang
 date: "2025-03-01T12:00:00Z"
-doi: ""
+doi: "10.1109/JIOT.2024.3506159"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-03-01T12:00:00Z"
@@ -16,8 +16,8 @@ publishDate: "2025-03-01T12:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "IEEE Internet of Things Journal"
+publication_short: "IoTJ"
 
 abstract: In autonomous driving environments, generative adversarial networks (GANs) are often used to predict the future trajectories of objects in the scene, providing decision support for autonomous driving systems. However, integrating GAN models into the Internet of Vehicles (IoV) poses numerous challenges. First, GAN models necessitate user data and extensive computing resources, whereas diverse intelligent connected vehicle (ICV) possess limited bandwidth and computational capabilities, making it challenging to deploy models of the same scale as those in the cloud. Second, multifaceted aspects, including energy consumption, computation, communication, and vehicle training scheduling, have yet to be thoroughly examined, particularly in the context of IoV’s limited resources. To address the above issues, we propose a novel federated learning framework, heterogeneous-vehicle-scheduling-GAN (HVS-GAN), for training GANs in resource-constrained IoV environments. HVS-GAN balances GAN generation quality and training costs in IoV. It supports multiple ICVs training GAN models of different structures, breaking the strong assumption of uniform GAN model size constraints in previous works and enabling collaborative learning within IoV. Furthermore, to balance quality and training costs, we incorporate deep deterministic policy gradients learning to manage varying model size constraints, training delays, and training consumption across participating ICVs. Experimental results and analysis confirm the superiority of our proposed HVSGAN solution, which achieves better outcomes in IoV scenarios with stringent model size constraints compared to state-of-the-art algorithms.
 
