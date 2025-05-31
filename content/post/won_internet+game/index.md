@@ -1,7 +1,6 @@
 ---
-title: I got Bronze Award in the 11th ”Internet+” College Students Innovation and Entrepreneurship Competition of Fujian
-Normal University. 2025
-summary: w
+title: I got Bronze Award in the 11th ”Internet+” College Students Innovation and Entrepreneurship Competition of Fujian Normal University. 2025
+summary: 
 date: 2025-06-03
 
 # Featured image
