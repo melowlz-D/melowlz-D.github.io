@@ -149,7 +149,7 @@ awards:
             Awarded First Prize in the National College Students Mathematics Competition (Non-Mathematics Category), demonstrating proficiency in advanced mathematics, probability theory, linear algebra, and related disciplines.
   - title: The 11th "Internet+" College Students Innovation and Entrepreneurship Competition of Fujian Normal University
     # url: http://www.cmathc.cn/
-    date: '2025-5-01'
+    date: '2025-05-01'
     awarder: Bronze Award
     icon: coursera
     summary: |
