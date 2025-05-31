@@ -1,14 +1,14 @@
 ---
-title: "Federated Training Generative Adversarial Networks  for Heterogeneous Vehicle Scheduling in IoV"
+title: "Bad-MFL: A Cross-Modality Bi-Trigger Backdoor Attack against Multi-Modal Federated Learning"
 authors:
-- Lizhao Wu
+- Yuefeng Lai
+- Lizhao Wu*
 - Hui Lin
-- Xiaoding Wang
-date: "2025-03-01T12:00:00Z"
-doi: "10.1109/JIOT.2024.3506159"
+date: "2025-05-01T12:00:00Z"
+# doi: "10.1109/JIOT.2024.3506159"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-01T12:00:00Z"
+# publishDate: "2025-05-01T12:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,15 +17,14 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Internet of Things Journal"
-publication_short: "IoTJ"
+publication_short: "IEEE IoTJ"
 
-abstract: In autonomous driving environments, generative adversarial networks (GANs) are often used to predict the future trajectories of objects in the scene, providing decision support for autonomous driving systems. However, integrating GAN models into the Internet of Vehicles (IoV) poses numerous challenges. First, GAN models necessitate user data and extensive computing resources, whereas diverse intelligent connected vehicle (ICV) possess limited bandwidth and computational capabilities, making it challenging to deploy models of the same scale as those in the cloud. Second, multifaceted aspects, including energy consumption, computation, communication, and vehicle training scheduling, have yet to be thoroughly examined, particularly in the context of IoV’s limited resources. To address the above issues, we propose a novel federated learning framework, heterogeneous-vehicle-scheduling-GAN (HVS-GAN), for training GANs in resource-constrained IoV environments. HVS-GAN balances GAN generation quality and training costs in IoV. It supports multiple ICVs training GAN models of different structures, breaking the strong assumption of uniform GAN model size constraints in previous works and enabling collaborative learning within IoV. Furthermore, to balance quality and training costs, we incorporate deep deterministic policy gradients learning to manage varying model size constraints, training delays, and training consumption across participating ICVs. Experimental results and analysis confirm the superiority of our proposed HVSGAN solution, which achieves better outcomes in IoV scenarios with stringent model size constraints compared to state-of-the-art algorithms.
-
+abstract: Against the backdrop of the rapid proliferation of Industrial Internet of Things, due to the rapid increase in edge devices and multi-modal data, Multi-modal Federated Learning (MFL)—an extension of Federated Learning(FL)—has become the mainstream solution for fusing heterogeneous sensor data in edge computing. Although MFL is inherently vulnerable to backdoor attacks similar to FL, its cross-modal fusion techniques for verifying semantic consistency gradually may cause single modal triggers to be faded during training. To address the aforementioned issue, we propose a cross-modality bi-trigger backdoor attack against MFL, named Bad-MFL, which are the first backdoor attack specifically targeting MFL. Bad-MFL employs two trigger generation modes to randomly implant logically correlated, invisible bi-trigger in two modalities. By maintaining semantic consistency between the triggers, BadMFL bypasses cross-modal fusion validation and successfully implants a backdoor into the global model. Moreover, it ensures the backdoor will not disappear as training progresses. Our experiments indicate that, compared to traditional backdoor attack methods, Bad-MFL achieving an Attack Success Rate up to 89.04%, which is 56% higher than the baseline attack, and its backdoor remains effective in high heterogeneous environments throughout training.
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Federated Learning, Generative Adversarial etworks, Internet of Vehicles.
+- Federated Learning, Backdoor Attack.
 featured: True
 
 # links:
@@ -61,7 +60,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-A novel framework to train GAN model with heterogeneous model in federated learning.
+<!-- A novel framework to train GAN model with heterogeneous model in federated learning. -->
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
