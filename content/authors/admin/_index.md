@@ -142,14 +142,14 @@ languages:
 awards:
   - title: The 13-th National College Mathematics Contest
     url: http://www.cmathc.cn/
-    date: '2021-12-01T12:00:00Z'
+    date: '2021-12-01'
     awarder: First Prize
     icon: coursera
     summary: |
             Awarded First Prize in the National College Students Mathematics Competition (Non-Mathematics Category), demonstrating proficiency in advanced mathematics, probability theory, linear algebra, and related disciplines.
   - title: The 11th "Internet+" College Students Innovation and Entrepreneurship Competition of Fujian Normal University
     # url: http://www.cmathc.cn/
-    date: '2025-5-01T12:00:00Z'
+    date: '2025-5-01'
     awarder: Bronze Award
     icon: coursera
     summary: |
