@@ -35,12 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-      I have recently been awarded the China Scholarship Council (CSC) PhD scholarship at the University of Exeter.
+        I am currently applying for the CSC (China Scholarship Council) PhD scholarship at the University of Exeter and hope for the best outcome.
 
-      Currently, my research efforts are primarily focused on quantum machine learning research and the development of distributed trustworthy federated learning frameworks.
+        My research efforts are focused on advancing inference attack studies under the meta-learning paradigm and deploying federated learning frameworks in agricultural scenarios. My future research interests lie in leveraging causal inference techniques to build trustworthy federated learning models. 
 
-      I welcome communication or collaboration opportunities with anyone interested in these areas.😊
-
+        I welcome communication or collaboration opportunities with anyone interested in these areas. 😃
     design:
       columns: '1'
   - block: collection
