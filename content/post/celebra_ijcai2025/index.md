@@ -1,5 +1,5 @@
 ---
-title: One paper has been accepted by IJCAI2025!🎉
+title: My paper has been accepted by IJCAI2025!🎉
 summary: 
 date: 2025-05-27
 
