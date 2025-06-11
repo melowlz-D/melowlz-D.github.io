@@ -40,6 +40,7 @@ sections:
       Currently, my research efforts are primarily focused on quantum machine learning research and the development of distributed trustworthy federated learning frameworks.
 
       I welcome communication or collaboration opportunities with anyone interested in these areas.😊
+
     design:
       columns: '1'
   - block: collection
