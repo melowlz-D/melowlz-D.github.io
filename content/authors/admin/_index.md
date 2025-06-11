@@ -23,8 +23,8 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Fujian Normal University
-    url: https://www.fjnu.edu.cn/main.htm
+  - name: University of Exeter
+    url: https://www.exeter.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -39,6 +39,7 @@ profiles:
 
 
 interests:
+  - Quantum Mechanics
   - Federated Learning
   - Secure Deep Learning
   - Casual Inference
@@ -67,22 +68,22 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Stocker Rd, Exeter EX4 4PY, UK
     institution: University of Exeter
-    date_start: 2022-09-01
-    date_end: 2025-07-01
+    date_start: 2025-07-01
+    date_end: 2029-09-01
     summary: |
-          Focusing on the research of data heterogeneity and device heterogeneity issues in federated learning, under the supervision of [Prof Hui Lin](https://ieeexplore.ieee.org/author/37633721200) and [Prof Xiaoding Wang](https://ieeexplore.ieee.org/author/37088446734). A total of 11 papers have been published (including 2 papers in CCF A and Sci-1  journals).
+          Focusing on the research of quantum mechanics in machine learning, under the supervision of [Prof Jia Hu](https://experts.exeter.ac.uk/24926-jia-hu).
   - area: Fuzhou City, Fujian Province, China
     institution: Fujian Normal University
     date_start: 2022-09-01
     date_end: 2025-07-01
     summary: |
-          Focusing on the research of data heterogeneity and device heterogeneity issues in federated learning, under the supervision of [Prof Hui Lin](https://ieeexplore.ieee.org/author/37633721200) and [Prof Xiaoding Wang](https://ieeexplore.ieee.org/author/37088446734). A total of 11 papers have been published (including 2 papers in CCF A and Sci-1  journals).
+          Focused on the research of data heterogeneity and device heterogeneity issues in federated learning, under the supervision of [Prof Hui Lin](https://ieeexplore.ieee.org/author/37633721200) and [Prof Xiaoding Wang](https://ieeexplore.ieee.org/author/37088446734). A total of 11 papers had been published (including 2 papers in CCF A and SCI-Q1  journals).
   - area: Tangshan City, Hebei Province, China
     institution: North China University of Science and Technology
     date_start: 2018-09-01
     date_end: 2022-07-01
     summary: |
-            Focusing on the research of overlapping community detection in complex networks, supervised by [Prof Chunying Zhang](https://ieeexplore.ieee.org/author/37086945415). One paper has been published at a conference hosted by the China Computer Federation (CCF).
+            Focused on the research of overlapping community detection in complex networks, supervised by [Prof Chunying Zhang](https://ieeexplore.ieee.org/author/37086945415). One paper had been published at a conference hosted by the China Computer Federation (CCF).
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -170,5 +171,7 @@ awards:
 ---
 
 ## About Me
-Lizhao Wu is currently a graduate student at the College of Computer Network and Cyberspace Security, Fujian Normal University, where he studies under the supervision of Professors Hui Lin and Xiaoding Wang. His research interests include distributed federated learning and trusted computing.
-
+Lizhao Wu received his master’s degree from
+the School of Computer and Cyberspace Security at
+Fujian Normal University in 2025 and is currently
+pursuing a Ph.D. degree at University of Exeter. His research interests include distributed federated learning and trusted computing.
