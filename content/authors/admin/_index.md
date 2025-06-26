@@ -66,20 +66,20 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Stocker Rd, Exeter EX4 4PY, UK
-    institution: University of Exeter
+  - area: University of Exeter
+    institution: Stocker Rd, Exeter EX4 4PY, UK
     date_start: 2025-07-01
     date_end: 2029-09-01
     summary: |
           Focusing on the research of quantum mechanics in machine learning, under the supervision of [Prof Jia Hu](https://experts.exeter.ac.uk/24926-jia-hu).
-  - area: Fuzhou City, Fujian Province, China
-    institution: Fujian Normal University
+  - area: Fujian Normal University
+    institution: Fuzhou City, Fujian Province, China
     date_start: 2022-09-01
     date_end: 2025-07-01
     summary: |
           Focused on the research of data heterogeneity and device heterogeneity issues in federated learning, under the supervision of [Prof Hui Lin](https://ieeexplore.ieee.org/author/37633721200) and [Prof Xiaoding Wang](https://ieeexplore.ieee.org/author/37088446734). A total of 11 papers had been published (including 2 papers in CCF A and SCI-Q1  journals).
-  - area: Tangshan City, Hebei Province, China
-    institution: North China University of Science and Technology
+  - area: North China University of Science and Technology
+    institution: Tangshan City, Hebei Province, China
     date_start: 2018-09-01
     date_end: 2022-07-01
     summary: |
