@@ -1,7 +1,7 @@
 ---
-title: Paper "An Autonomous AI Framework for Knee Osteoarthritis Diagnosis via Semi-Supervised Learning and Dual Knowledge Distillation" had been accepted by IEEE Journal of Biomedical and Health Informatics(JBHI)!🎉
+title: Blockchain-based Multimodal Semantic ShardingSystem for Digital Copyright utilizing GraphClustering had been accepted by HPCC2025!🎉
 summary: 
-date: 2025-06-27
+date: 2025-06-15
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
