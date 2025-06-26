@@ -1,5 +1,5 @@
 ---
-title: Blockchain-based Multimodal Semantic ShardingSystem for Digital Copyright utilizing GraphClustering had been accepted by HPCC2025!🎉
+title: "Blockchain-based Multimodal Semantic Sharding System for Digital Copyright utilizing GraphClustering" had been accepted by HPCC2025!🎉
 summary: 
 date: 2025-06-15
 

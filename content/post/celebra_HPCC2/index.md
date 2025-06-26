@@ -1,5 +1,5 @@
 ---
-title: Hypergraph Masked Autoencoder for Advanced Persistent Threat Detection had been accepted by HPCC2025!🎉
+title: "LOHA: Hypergraph Masked Autoencoder for Advanced Persistent Threat Detection" had been accepted by HPCC2025!🎉
 summary: 
 date: 2025-06-15
 
