@@ -1,5 +1,5 @@
 ---
-title: "FedHAN: A Cache-Based Semi-Asynchronous Federated Learning Framework Defending Against Poisoning Attacks in Heterogeneous Clients" had been accepted by IJCAI2025!🎉
+title: Paper "FedHAN- A Cache-Based Semi-Asynchronous Federated Learning Framework Defending Against Poisoning Attacks in Heterogeneous Clients" had been accepted by IJCAI2025!🎉
 summary: 
 date: 2025-05-27
 
